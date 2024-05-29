@@ -1,0 +1,21 @@
+{
+  "name": "proyecto_vercel",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node ./index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "express": "^4.19.2",
+    "express-handlebars": "^7.1.2",
+    "i": "^0.3.7",
+    "morgan": "^1.10.0",
+    "npm": "^10.8.0",
+    "pg": "^8.11.5"
+  }
+}
